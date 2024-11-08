@@ -4,6 +4,12 @@ Repository for the Talk at the Rationality Freiburg Meetup on 2024-11-08.
 
 [https://www.rationality-freiburg.de/events/2024-11-08-state-of-generative-ai/](https://www.rationality-freiburg.de/events/2024-11-08-state-of-generative-ai/)
 
+## Hands on Session
+
+2. https://leisure-cookbook-mills-monitored.trycloudflare.com/ai-dock/pre-auth?token=06b14abafd8a3c5deb442a31618bffa8dfea3929a4394a5fa50bf0a8f45dbfd6
+
+1. https://olive-roommate-cruz-fg.trycloudflare.com/ai-dock/pre-auth?token=8d2f455e0129d3ad9b00408dc5686030ae37c3c976ed68b2ca391f798d187e3d
+
 
 ## Run AIs:
 
@@ -29,7 +35,8 @@ Two Stable Diffusion instances:
 
 
 ## Overviews:
-
+- https://lmarena.ai/
+- https://artificialanalysis.ai/
 
 ## Other projects:
 - Generate Podcasts:
