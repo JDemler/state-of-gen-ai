@@ -1,5 +1,9 @@
 # state-of-gen-ai
 
+
+## API Key
+sk-or-v1-8ed0147d354b0b6f815976247a49a2b2bfdd45f7c7bebf342d4e7edd2ad8
+
 Repository for the Talk at the Rationality Freiburg Meetup on 2024-11-08.
 
 [https://www.rationality-freiburg.de/events/2024-11-08-state-of-generative-ai/](https://www.rationality-freiburg.de/events/2024-11-08-state-of-generative-ai/)
