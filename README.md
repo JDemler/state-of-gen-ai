@@ -7,6 +7,9 @@ Repository for the Talk at the Rationality Freiburg Meetup on 2024-11-08.
 
 ## Run AIs:
 
+### Coding:
+- cursor.com (https://www.cursor.com/)
+
 ### Text:
 - openrouter.ai (requires registration or API key)
 - chatgpt.com (requires registration)
@@ -18,7 +21,7 @@ Repository for the Talk at the Rationality Freiburg Meetup on 2024-11-08.
 ### Image:
 Two Stable Diffusion instances:
 - replicate.com (requires registration or API key)
-- recraft.ai
+- recraft.ai (requires registration)
 
 
 ### Speech:
