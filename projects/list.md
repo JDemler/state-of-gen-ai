@@ -1,7 +1,5 @@
 # Projects
 
-OpenRouter API Key: sk-or-v1-1a7bd387b87a4ffb48fb1418b111f9220fdeb8e8fb0a351bdb361142a494 (last 4 digits missing -> ask me)
-
 
 ## AI Comedy Club
 Create an AI comedy club. The user gives one topic or input and then we use openrouter to ask different models to respond in a funny way.
